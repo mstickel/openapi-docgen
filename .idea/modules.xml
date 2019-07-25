@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openapi-docgen.iml" filepath="$PROJECT_DIR$/openapi-docgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-docgen-core/openapi-docgen-core.iml" filepath="$PROJECT_DIR$/openapi-docgen-core/openapi-docgen-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-docgen-maven-plugin/openapi-docgen-maven-plugin.iml" filepath="$PROJECT_DIR$/openapi-docgen-maven-plugin/openapi-docgen-maven-plugin.iml" />
+    </modules>
+  </component>
+</project>

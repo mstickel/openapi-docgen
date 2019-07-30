@@ -4,11 +4,11 @@
     <parent>
         <groupId>com.markstickel.openapi</groupId>
         <artifactId>openapi-docgen</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <groupId>com.markstickel.openapi</groupId>
     <artifactId>openapi-docgen-core</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>openapi-docgen-core</name>
     <description>Library that generates HTML documentation from OpenAPI-formatted inputs.  Uses node's redoc-cli under the hood.</description>
 

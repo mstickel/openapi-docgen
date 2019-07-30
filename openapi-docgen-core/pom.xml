@@ -10,6 +10,7 @@
     <artifactId>openapi-docgen-core</artifactId>
     <version>1.1-SNAPSHOT</version>
     <name>openapi-docgen-core</name>
+    <description>Library that generates HTML documentation from OpenAPI-formatted inputs.  Uses node's redoc-cli under the hood.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

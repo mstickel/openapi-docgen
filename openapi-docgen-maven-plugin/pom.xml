@@ -13,6 +13,7 @@
     <packaging>maven-plugin</packaging>
 
     <name>openapi-docgen-maven-plugin Maven Plugin</name>
+    <description>Maven plugin to generate OpenAPI documentation.</description>
 
     <dependencies>
         <dependency>

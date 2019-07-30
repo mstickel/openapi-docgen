@@ -23,13 +23,13 @@
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
         </repository>
     </distributionManagement>
 
     <scm>
         <connection>scm:git:git://github.com/mstickel/openapi-docgen.git</connection>
-        <developerConnection>scm:git:git://github.com/mstickel/openapi-docgen.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mstickel/openapi-docgen.git</developerConnection>
         <url>https://github.com/mstickel/openapi-docgen</url>
         <tag>HEAD</tag>
     </scm>

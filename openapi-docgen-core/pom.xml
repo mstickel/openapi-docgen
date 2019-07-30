@@ -4,11 +4,11 @@
     <parent>
         <groupId>com.markstickel.openapi</groupId>
         <artifactId>openapi-docgen</artifactId>
-        <version>1.0</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
     <groupId>com.markstickel.openapi</groupId>
     <artifactId>openapi-docgen-core</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>openapi-docgen-core</name>
 
     <properties>

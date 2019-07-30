@@ -4,7 +4,7 @@
 
     <groupId>com.markstickel.openapi</groupId>
     <artifactId>openapi-docgen</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>openapi-docgen</name>
@@ -30,7 +30,7 @@
         <connection>scm:git:git://github.com/mstickel/openapi-docgen.git</connection>
         <developerConnection>scm:git:git@github.com:mstickel/openapi-docgen.git</developerConnection>
         <url>https://github.com/mstickel/openapi-docgen</url>
-        <tag>openapi-docgen-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>

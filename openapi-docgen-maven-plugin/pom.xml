@@ -4,12 +4,12 @@
     <parent>
         <artifactId>openapi-docgen</artifactId>
         <groupId>com.markstickel.openapi</groupId>
-        <version>1.0</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
 
     <groupId>com.markstickel.openapi</groupId>
     <artifactId>openapi-docgen-maven-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>openapi-docgen-maven-plugin Maven Plugin</name>
